@@ -4,8 +4,8 @@
 
 + Egbaidomeh Daniel Ehiz (Team Lead)
 + Vishal Garg (Assistant Team Lead)
-+ Abdullahi Isa Ahmed (Query Analysis I)
-+ Solomon Nkwor (Query Analysis II)
++ Abdullahi Isa Ahmed (Query Analyst I)
++ Solomon Nkwor (Query Analyst II)
 + Muhammed Balogun 
 + Daniel Kurui 
 + Joshua Owoicho 
