@@ -1,18 +1,4 @@
-# Hamoye Summer 2022 Capstone Project: Neural Network Team
 
-### Team members 
-
-+ Egbaidomeh Daniel Ehiz (Team Lead)
-+ Vishal Garg (Assistant Team Lead)
-+ Abdullahi Isa Ahmed (Query Analyst I)
-+ Solomon Nkwor (Query Analyst II)
-+ Muhammed Balogun 
-+ Daniel Kurui 
-+ Joshua Owoicho 
-+ Abdulhamid Ibrahim 
-+ Abdullateef Ogundipe 
-+ Oluwatomiwa Adeleke 
-+ Sharon Omovie 
 
 
 ### 1.0 INTRODUCTION
